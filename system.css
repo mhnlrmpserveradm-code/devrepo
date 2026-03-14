@@ -1,0 +1,119 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: black;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 80px;
+    background: lightgray;
+}
+
+.hero button {
+    padding: 10px 20px;
+    background: black;
+    color: white;
+    border: none;
+}
+
+.products {
+    padding: 40px;
+    text-align: center;
+}
+
+.product-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.product {
+    border: 1px solid #ccc;
+    padding: 15px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: black;
+    color: white;
+}body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: black;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 80px;
+    background: lightgray;
+}
+
+.hero button {
+    padding: 10px 20px;
+    background: black;
+    color: white;
+    border: none;
+}
+
+.products {
+    padding: 40px;
+    text-align: center;
+}
+
+.product-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.product {
+    border: 1px solid #ccc;
+    padding: 15px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: black;
+    color: white;
+}
