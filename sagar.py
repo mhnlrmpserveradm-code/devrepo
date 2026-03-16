@@ -1,1 +1,1 @@
-print"Hey Buddy!! V2")
+print("Hey Buddy!! V2")
